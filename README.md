@@ -67,7 +67,24 @@ These courses allow me to develop practical knowledge in deep learning, computer
 
 This section showcases selected academic, research, and personal projects demonstrating my experience in artificial intelligence, machine learning, computer vision, and software development.
 
+Lane keeping Assist :A computer vision project implementing the perception component of a Lane Keeping Assist (LKA) system. The application processes forward-facing driving videos to detect lane boundaries, estimate the vehicle's position within the lane, and visualize the results. 
+Link: https://github.com/ZAHIDMariam-ui/Lane_Keeping_Assist
 
+Raja mobile: Application mobile Kotlin Jetpack Compose of a shopping rticles of a football team
+Link : https://github.com/ZAHIDMariam-ui/ProjetMobile_ZAHID-SAFRIOUI
+
+Breast Cancer Classification using Machine Learning: This project aims to classify breast tumors as benign or malignant using machine learning techniques. It is based on the Breast Cancer Wisconsin (Diagnostic) dataset.
+Link:https://github.com/ZAHIDMariam-ui/breast-cancer-classification-ml
+
+wordpress-cms-project:This project is a content management system (CMS) website developed using WordPress.
+Link:https://github.com/ZAHIDMariam-ui/wordpress-cms-project
+
+machine-learning-fraud-detection:This project aims to detect fraudulent financial transactions using multiple Machine Learning and Deep Learning models. The dataset used is a synthetic financial dataset containing transaction details such as amount, type, balances, and fraud labels.
+The goal is to compare different models and evaluate their performance using advanced metrics (ROC-AUC, F1-score, MCC, etc.).
+Link:https://github.com/ZAHIDMariam-ui/machine-learning-fraud-detection
+
+3D point cloud segmentation:Custom 3D point cloud segmentation and reconstruction using from-scratch RANSAC algorithms to detect spheres and multiple planes, with color-coded PLY visualization.
+Link:https://github.com/ZAHIDMariam-ui/3D-Point-Cloud-Segmentation
 
 ---
 
