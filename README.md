@@ -28,8 +28,8 @@ My current interests include developing intelligent applications, exploring comp
 |---|---|---|
 | MSc in Computer Science – Autonomous Systems | Eötvös Loránd University (ELTE), Hungary | 2026–2028 |
 | Bachelor's Degree of Excellence – Data Analytics and Artificial Intelligence | Ibn Zohr University, Morocco | 2025–2026 |
-| DUT – Data Engineering | Higher School of Technology, El Kelaa des Sraghna, Morocco | 2023–2025 |
-| High School Diploma – Physical Sciences | Lamhara Qualifying High School, Morocco | 2022–2023 |
+| DUT – Data Engineering | Higher School of Technology, Morocco | 2023–2025 |
+
 
 ---
 
